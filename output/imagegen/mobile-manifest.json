@@ -1,0 +1,46 @@
+[
+  {
+    "key": "approach-harvest-mobile",
+    "source": "farmer_loading_blueberries_61145_Nano_Banana_2.png",
+    "width": 780,
+    "height": 1440,
+    "alpha": false,
+    "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-2aeec263-14a6-47de-a954-a94a21ac6f36.png",
+    "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the same source blueberry farm, same farmer identity and kneeling pose, and the SAME EXISTING visible upper/front portion of the green rover. Keep the rover's lower source crop boundary cropped at the lower output edge; NEVER invent underbody or missing parts. Composition: Keep farmer and visible rover grouped in lower half; extend only orchard netting, sky and subtle foliage into upper half. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+    "projectOriginal": "output/imagegen/approach-harvest-mobile.png",
+    "websiteAsset": "public/assets/xtaskr/approach-harvest-mobile.webp"
+  },
+  {
+    "key": "approach-field-mobile",
+    "source": "farmer_loading_blueberries_63987_Nano_Banana_2.png",
+    "width": 780,
+    "height": 1440,
+    "alpha": false,
+    "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-7994328b-6e58-4dbc-8cba-ca7c801b166b.png",
+    "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the same source blueberry rows and standing farmer with the exact green rover and loaded crates, all source product details and original source colors preserved. Composition: The complete source rover sits across the lower middle, farmer directly behind/left of it, both within this portrait frame. Keep actual human and product scale. Extend only background netting and sky above. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+    "projectOriginal": "output/imagegen/approach-field-mobile.png",
+    "websiteAsset": "public/assets/xtaskr/approach-field-mobile.webp"
+  },
+  {
+    "key": "approach-orchard-mobile",
+    "source": "farmer_loading_blueberries_45359_Nano_Banana_2.png",
+    "width": 780,
+    "height": 1440,
+    "alpha": false,
+    "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-75fc50a1-410d-4492-b17b-fd4697ad8fbe.png",
+    "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the same source fruit orchard, source farmer and exact green rover carrying original fruit crates, same original product viewpoint and source colors. Composition: The complete source rover sits in the lower middle, farmer just behind/left, realistic orchard rows on either side and quiet sky and foliage across the upper half. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+    "projectOriginal": "output/imagegen/approach-orchard-mobile.png",
+    "websiteAsset": "public/assets/xtaskr/approach-orchard-mobile.webp"
+  },
+  {
+    "key": "footer-rover-mobile",
+    "source": "farmer_loading_blueberries_87087_Nano_Banana_2.png",
+    "width": 780,
+    "height": 1440,
+    "alpha": false,
+    "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-7ead0d4f-bf20-4e95-b52f-23aabe61d20b.png",
+    "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the exact original green rover with green crates and yellow rims in a premium outdoor equipment yard at early evening, graphite workshop wall and slate concrete with subtle amber safety lights in background. Composition: Entire unchanged rover in lower third, taking at most 80% of width. Upper two thirds is mostly quiet graphite architectural backdrop for an existing white website heading. No people. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+    "projectOriginal": "output/imagegen/footer-rover-mobile.png",
+    "websiteAsset": "public/assets/xtaskr/footer-rover-mobile.webp"
+  }
+]

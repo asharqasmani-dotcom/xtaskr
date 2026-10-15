@@ -1,0 +1,227 @@
+{
+  "mode": "built-in image_gen",
+  "sourceArchive": "/Users/bstar/Downloads/matejgutman-attachments.zip",
+  "heroUnchanged": true,
+  "assets": [
+    {
+      "key": "about-cutout",
+      "source": "farmer_loading_blueberries_38951_Nano_Banana_2.png",
+      "width": 881,
+      "height": 791,
+      "alpha": true,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-4a49b6a1-3f8e-4d7b-8cfb-695d7d1f821c.png",
+      "prompt": "Use case: background-extraction. Edit target: the attached client product photo. Asset type: floating supporting product beside company statistics on an off-white page. Primary request: remove ONLY the plain gray studio background and studio floor, return a genuinely transparent PNG. Preserve the COMPLETE original rover and crates exactly, same viewpoint, physical geometry, color, controls, lights, tire tread, rims, frame, crate details and proportions. This is precise background extraction, not product regeneration. Do not redesign, retouch, recolor or add branding to the rover. Do not invent unseen features. Keep the original lighting on the rover. Composition: 881:791 landscape almost square, around 1120 by 1008; entire product visible, generous clear margins, no stretching, no clipped tires or crates. No added text, no extra objects, no opaque backdrop, no checkerboard baked into the image.",
+      "projectOriginal": "output/imagegen/about-cutout.png",
+      "websiteAsset": "public/assets/xtaskr/about-cutout.webp"
+    },
+    {
+      "key": "applications-cutout",
+      "source": "farmer_loading_blueberries_32246_Nano_Banana_2.png",
+      "width": 602,
+      "height": 798,
+      "alpha": true,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-9325cc06-e5e6-4fbb-800d-a557f05dffa3.png",
+      "prompt": "Use case: background-extraction. Edit target: the attached client product photo. Asset type: a floating supporting product in the lower right of the applications section; keep it within the central middle half of this portrait canvas with transparent breathing room above and below. Primary request: remove ONLY the plain gray studio background and studio floor, return a genuinely transparent PNG. Preserve the COMPLETE original rover and crates exactly, same viewpoint, physical geometry, color, controls, lights, tire tread, rims, frame, crate details and proportions. This is precise background extraction, not product regeneration. Do not redesign, retouch, recolor or add branding to the rover. Do not invent unseen features. Keep the original lighting on the rover. Composition: 602:798 portrait, around 768 by 1024; entire product visible, generous clear margins, no stretching, no clipped tires or crates. No added text, no extra objects, no opaque backdrop, no checkerboard baked into the image.",
+      "projectOriginal": "output/imagegen/applications-cutout.png",
+      "websiteAsset": "public/assets/xtaskr/applications-cutout.webp"
+    },
+    {
+      "key": "performance-cutout",
+      "source": "farmer_loading_blueberries_14550_Nano_Banana_2.png",
+      "width": 819,
+      "height": 749,
+      "alpha": true,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-86183dde-ac4d-4e11-a7c4-21ada1b5ce63.png",
+      "prompt": "Use case: background-extraction. Edit target: the attached client product photo. Asset type: a floating supporting product across a dark graphite performance section. Primary request: remove ONLY the plain gray studio background and studio floor, return a genuinely transparent PNG. Preserve the COMPLETE original rover and crates exactly, same viewpoint, physical geometry, color, controls, lights, tire tread, rims, frame, crate details and proportions. This is precise background extraction, not product regeneration. Do not redesign, retouch, recolor or add branding to the rover. Do not invent unseen features. Keep the original lighting on the rover. Composition: 819:749 almost square landscape, around 1120 by 1024; entire product visible, generous clear margins, no stretching, no clipped tires or crates. No added text, no extra objects, no opaque backdrop, no checkerboard baked into the image.",
+      "projectOriginal": "output/imagegen/performance-cutout.png",
+      "websiteAsset": "public/assets/xtaskr/performance-cutout.webp"
+    },
+    {
+      "key": "about-field",
+      "source": "farmer_loading_blueberries_32312_Nano_Banana_2.png",
+      "width": 900,
+      "height": 640,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-2a2cfa6c-77b4-4130-a339-cb68443bfc4c.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client photograph, use as the sole image source. Primary request: Company introduction photograph, exact target aspect 450:320 (1.40625:1). Recompose into this landscape crop with BOTH the farmer and COMPLETE green rover visible, same human identity, clothing, hands and posture. Keep the practical blueberry farm scene. Only clean background clutter slightly and soften harsh highlights into natural premium daylight. Keep original rover details and berry crates; leave a little clear margin around subjects. Invariants: retain the source product design EXACTLY: original green panels, black bumper, tire geometry, rims, controls, LED shapes, chassis, crate quantity, materials, scale and texture. Keep human identity unchanged. Only background extension, surrounding scene cleanup, composition and gentle lighting mood may change. No rover redesign or recoloring, no invented equipment or robot parts. No robotic arms, humanoids, concept art or unrelated factories. Brand context around image only: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Natural color photographic image, not a heavily colored overlay. No text, logos, borders, watermarks, graphic labels. Product should remain recognizably identical to the input.",
+      "projectOriginal": "output/imagegen/about-field.png",
+      "websiteAsset": "public/assets/xtaskr/about-field.webp"
+    },
+    {
+      "key": "approach-harvest",
+      "source": "farmer_loading_blueberries_61145_Nano_Banana_2.png",
+      "width": 1920,
+      "height": 1080,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-2aa6c4a4-5a52-4e36-a8fe-512a1cf08857.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client photograph, use as the sole image source. Primary request: Full-width editorial approach-section background, wide 16:9. Preserve the farmer, pose, clothing and exact green rover/cargo in this source. Extend blueberry farm background naturally to the left and top to give usable low-detail negative space through the upper center for a website overlay. Maintain close human-and-product relationship on the right half; do not crop product further than source. Premium soft daylight, realistic mature farm, discreet desaturated surroundings. Invariants: retain the source product design EXACTLY: original green panels, black bumper, tire geometry, rims, controls, LED shapes, chassis, crate quantity, materials, scale and texture. Keep human identity unchanged. Only background extension, surrounding scene cleanup, composition and gentle lighting mood may change. No rover redesign or recoloring, no invented equipment or robot parts. No robotic arms, humanoids, concept art or unrelated factories. Brand context around image only: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Natural color photographic image, not a heavily colored overlay. No text, logos, borders, watermarks, graphic labels. Product should remain recognizably identical to the input.",
+      "projectOriginal": "output/imagegen/approach-harvest.png",
+      "websiteAsset": "public/assets/xtaskr/approach-harvest.webp"
+    },
+    {
+      "key": "approach-field",
+      "source": "farmer_loading_blueberries_63987_Nano_Banana_2.png",
+      "width": 1920,
+      "height": 1080,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-a347d3d2-c44b-4ba0-ad3a-3fe4cc647f13.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client photograph, use as the sole image source. Primary request: Full-width editorial field-operations background and case-study visual, wide 16:9. Preserve exact standing farmer and green rover and loaded crates, human identity and pose. The complete rover should be visible with natural room below its tires, achieved by extending only the surrounding grassy path. Refine surrounding farm slightly with natural premium daylight, realistic orchard netting, natural greens, graphite and slate neutral surroundings. Keep farmer and rover on right half with quieter foliage/path on the left and upper center. Invariants: retain the source product design EXACTLY: original green panels, black bumper, tire geometry, rims, controls, LED shapes, chassis, crate quantity, materials, scale and texture. Keep human identity unchanged. Only background extension, surrounding scene cleanup, composition and gentle lighting mood may change. No rover redesign or recoloring, no invented equipment or robot parts. No robotic arms, humanoids, concept art or unrelated factories. Brand context around image only: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Natural color photographic image, not a heavily colored overlay. No text, logos, borders, watermarks, graphic labels. Product should remain recognizably identical to the input.",
+      "projectOriginal": "output/imagegen/approach-field.png",
+      "websiteAsset": "public/assets/xtaskr/approach-field.webp"
+    },
+    {
+      "key": "approach-orchard",
+      "source": "farmer_loading_blueberries_45359_Nano_Banana_2.png",
+      "width": 1920,
+      "height": 1080,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-4714778d-9774-4585-81a7-3acff12cd676.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client photograph, use as the sole image source. Primary request: Full-width orchard operations background and case-study visual, wide 16:9. Preserve exact farmer and green rover/cargo and their physical proportions. Keep the real orchard rows and clear walking path. Slightly refine harsh sunlight and distracting background details into premium realistic outdoor editorial photography. Recompose farmer and rover toward the right third, with beautiful low-detail orchard atmosphere on the left and upper center for existing text overlay. Do not replace the crop type, alter crates, or change the rover. Invariants: retain the source product design EXACTLY: original green panels, black bumper, tire geometry, rims, controls, LED shapes, chassis, crate quantity, materials, scale and texture. Keep human identity unchanged. Only background extension, surrounding scene cleanup, composition and gentle lighting mood may change. No rover redesign or recoloring, no invented equipment or robot parts. No robotic arms, humanoids, concept art or unrelated factories. Brand context around image only: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Natural color photographic image, not a heavily colored overlay. No text, logos, borders, watermarks, graphic labels. Product should remain recognizably identical to the input.",
+      "projectOriginal": "output/imagegen/approach-orchard.png",
+      "websiteAsset": "public/assets/xtaskr/approach-orchard.webp"
+    },
+    {
+      "key": "feature-platform",
+      "source": "farmer_loading_blueberries_40614_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-739546f7-faf4-487d-ae77-4ac9adf3282a.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client rover photograph. Asset type: XtaskR homepage feature-platform. Replace ONLY the plain gray studio background and studio floor with a refined outdoor industrial work yard: slate-gray concrete hardstand, distant understated graphite workshop wall, soft overcast natural daylight, a tiny amber safety-line accent far behind the rover. SQUARE 1:1 composition, 1280 by 1280. Keep the complete original rover centered and fully visible at about 65 percent of canvas width, preserving its original camera angle exactly. Leave large calm margins on all four sides and useful floor area below the tires. This image will be placed inside a nearly-square responsive feature card, and nothing essential may be near the crop edges. Invariants: preserve the original rover EXACTLY as photographed: same color, all panels and bevels, lights, controls, bracket geometry, crates and crate color, tire tread, hubs, rims, bolts, bumper, chassis dimensions, camera perspective and physical proportions. Do not repaint or redesign the rover. Composite it into the new realistic surroundings; no product invention. Match surrounding ground shadows to the source product lighting while preserving product appearance. Brand environment: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Keep source product colors even when different from these brand colors. Natural photographic realism, restrained premium industrial mood, no neon, no robotic arms, no humanoids, no unrelated factory equipment, no text, logos, labels, UI, border, or watermark.",
+      "projectOriginal": "output/imagegen/feature-platform.png",
+      "websiteAsset": "public/assets/xtaskr/feature-platform.webp"
+    },
+    {
+      "key": "feature-terrain",
+      "source": "farmer_loading_blueberries_41343_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-19a32629-b170-49c4-ac92-3f7e69a2b5bc.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client rover photograph. Asset type: XtaskR homepage feature-terrain. Replace ONLY the plain gray studio background and studio floor with a realistic compacted-gravel farm service path with muted distant orchard foliage, natural soft daylight, slate neutral tones, no people or other machines. SQUARE 1:1 composition, 1280 by 1280. Keep the complete original rover centered and fully visible at about 65 percent of canvas width, preserving its original camera angle exactly. Leave large calm margins on all four sides and useful floor area below the tires. This image will be placed inside a nearly-square responsive feature card, and nothing essential may be near the crop edges. Invariants: preserve the original rover EXACTLY as photographed: same color, all panels and bevels, lights, controls, bracket geometry, crates and crate color, tire tread, hubs, rims, bolts, bumper, chassis dimensions, camera perspective and physical proportions. Do not repaint or redesign the rover. Composite it into the new realistic surroundings; no product invention. Match surrounding ground shadows to the source product lighting while preserving product appearance. Brand environment: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Keep source product colors even when different from these brand colors. Natural photographic realism, restrained premium industrial mood, no neon, no robotic arms, no humanoids, no unrelated factory equipment, no text, logos, labels, UI, border, or watermark.",
+      "projectOriginal": "output/imagegen/feature-terrain.png",
+      "websiteAsset": "public/assets/xtaskr/feature-terrain.webp"
+    },
+    {
+      "key": "feature-cargo",
+      "source": "farmer_loading_blueberries_41970_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-8d1a40df-3010-44d3-bca2-d852b6b98078.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client rover photograph. Asset type: XtaskR homepage feature-cargo. Replace ONLY the plain gray studio background and studio floor with a clean practical agricultural loading bay with pale off-white architectural wall and gray concrete floor, gentle daylight, minimal distant amber safety marking. SQUARE 1:1 composition, 1280 by 1280. Keep the complete original rover centered and fully visible at about 65 percent of canvas width, preserving its original camera angle exactly. Leave large calm margins on all four sides and useful floor area below the tires. This image will be placed inside a nearly-square responsive feature card, and nothing essential may be near the crop edges. Invariants: preserve the original rover EXACTLY as photographed: same color, all panels and bevels, lights, controls, bracket geometry, crates and crate color, tire tread, hubs, rims, bolts, bumper, chassis dimensions, camera perspective and physical proportions. Do not repaint or redesign the rover. Composite it into the new realistic surroundings; no product invention. Match surrounding ground shadows to the source product lighting while preserving product appearance. Brand environment: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Keep source product colors even when different from these brand colors. Natural photographic realism, restrained premium industrial mood, no neon, no robotic arms, no humanoids, no unrelated factory equipment, no text, logos, labels, UI, border, or watermark.",
+      "projectOriginal": "output/imagegen/feature-cargo.png",
+      "websiteAsset": "public/assets/xtaskr/feature-cargo.webp"
+    },
+    {
+      "key": "feature-work",
+      "source": "farmer_loading_blueberries_05247_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-e208d574-0b30-41ff-9ba3-9fc6e8a4885e.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client rover photograph. Asset type: XtaskR homepage feature-work. Replace ONLY the plain gray studio background and studio floor with a restrained real outdoor equipment yard with a graphite corrugated shed wall and concrete ground, photographic soft daylight, understated slate industrial palette. SQUARE 1:1 composition, 1280 by 1280. Keep the complete original rover centered and fully visible at about 65 percent of canvas width, preserving its original camera angle exactly. Leave large calm margins on all four sides and useful floor area below the tires. This image will be placed inside a nearly-square responsive feature card, and nothing essential may be near the crop edges. Invariants: preserve the original rover EXACTLY as photographed: same color, all panels and bevels, lights, controls, bracket geometry, crates and crate color, tire tread, hubs, rims, bolts, bumper, chassis dimensions, camera perspective and physical proportions. Do not repaint or redesign the rover. Composite it into the new realistic surroundings; no product invention. Match surrounding ground shadows to the source product lighting while preserving product appearance. Brand environment: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Keep source product colors even when different from these brand colors. Natural photographic realism, restrained premium industrial mood, no neon, no robotic arms, no humanoids, no unrelated factory equipment, no text, logos, labels, UI, border, or watermark.",
+      "projectOriginal": "output/imagegen/feature-work.png",
+      "websiteAsset": "public/assets/xtaskr/feature-work.webp"
+    },
+    {
+      "key": "feature-transport",
+      "source": "farmer_loading_blueberries_40776_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 1200,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-ef22f8b2-df5d-400e-aa63-7ace18132080.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client rover photograph. Asset type: XtaskR homepage feature-transport. Replace ONLY the plain gray studio background and studio floor with a rugged orchard service route with fine gravel under the original tires, softly defocused treeline in the distance, clear natural overcast daylight, premium practical industrial photography. SQUARE 1:1 composition, 1280 by 1280. Keep the complete original rover centered and fully visible at about 65 percent of canvas width, preserving its original camera angle exactly. Leave large calm margins on all four sides and useful floor area below the tires. This image will be placed inside a nearly-square responsive feature card, and nothing essential may be near the crop edges. Invariants: preserve the original rover EXACTLY as photographed: same color, all panels and bevels, lights, controls, bracket geometry, crates and crate color, tire tread, hubs, rims, bolts, bumper, chassis dimensions, camera perspective and physical proportions. Do not repaint or redesign the rover. Composite it into the new realistic surroundings; no product invention. Match surrounding ground shadows to the source product lighting while preserving product appearance. Brand environment: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Keep source product colors even when different from these brand colors. Natural photographic realism, restrained premium industrial mood, no neon, no robotic arms, no humanoids, no unrelated factory equipment, no text, logos, labels, UI, border, or watermark.",
+      "projectOriginal": "output/imagegen/feature-transport.png",
+      "websiteAsset": "public/assets/xtaskr/feature-transport.webp"
+    },
+    {
+      "key": "footer-rover",
+      "source": "farmer_loading_blueberries_87087_Nano_Banana_2.png",
+      "width": 1920,
+      "height": 800,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-c475c6e2-34f5-4eef-a0c0-451df6cf3b8c.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied client rover photograph. Asset type: XtaskR homepage footer-rover. Replace ONLY the plain gray studio background and studio floor with a premium outdoor equipment yard at early evening, graphite warehouse wall and natural slate concrete ground, believable broad soft lighting with subtle safety amber ambient reflections ONLY on the surrounding ground and distant wall. Panoramic 12:5 composition, around 2400 by 1000. Place the entire unchanged source rover on the RIGHT THIRD at a sensible working scale, wheels visible, plenty of quiet graphite negative space left and upper center for an existing web headline. Keep scene and rover naturally lit, not silhouetted. Invariants: preserve the original rover EXACTLY as photographed: same color, all panels and bevels, lights, controls, bracket geometry, crates and crate color, tire tread, hubs, rims, bolts, bumper, chassis dimensions, camera perspective and physical proportions. Do not repaint or redesign the rover. Composite it into the new realistic surroundings; no product invention. Match surrounding ground shadows to the source product lighting while preserving product appearance. Brand environment: Graphite Iron #1E2229, Safety Amber #FF9500, Slate Steel #7B8494, Chalk Off-White #F4F6F9. Keep source product colors even when different from these brand colors. Natural photographic realism, restrained premium industrial mood, no neon, no robotic arms, no humanoids, no unrelated factory equipment, no text, logos, labels, UI, border, or watermark.",
+      "projectOriginal": "output/imagegen/footer-rover.png",
+      "websiteAsset": "public/assets/xtaskr/footer-rover.webp"
+    },
+    {
+      "key": "insight-platform",
+      "source": "farmer_loading_blueberries_40614_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 607,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-67cf0210-7530-47c0-808e-d2dbee6dde84.png",
+      "prompt": "Use case: precise-object-edit. Edit target: client photograph. Asset type: XtaskR article thumbnail, exact landscape aspect 900:455 (about 1.978:1), approximately 1800 by 910 pixels. Background/scene: the exact original dark green rover with black crates and black rims in a clean slate concrete outdoor work yard against a subdued graphite workshop; entire rover occupies the RIGHT HALF, with full tires and crates visible and generous clear margins; understated soft daylight. Replace only surroundings and recompose for this wide thumbnail. Preserve original product identity, geometric details, colors, materials, controls, rims, tire tread, brackets, lights and crates. Do not repaint, redesign or invent new parts. Keep ALL product details away from crop edges, no stretched proportions. Premium realistic outdoor industrial photography consistent with Graphite #1E2229, Slate #7B8494, Chalk #F4F6F9 and subtle Safety Amber #FF9500 in the environment only. No text, no logos, no graphic overlays, no unrelated machinery, no robotic arms, no futuristic effects.",
+      "projectOriginal": "output/imagegen/insight-platform.png",
+      "websiteAsset": "public/assets/xtaskr/insight-platform.webp"
+    },
+    {
+      "key": "insight-field",
+      "source": "farmer_loading_blueberries_61145_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 607,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-43b4d1d3-4e72-4915-ae6d-e283742de538.png",
+      "prompt": "Use case: precise-object-edit. Edit target: supplied original client photograph. Produce a premium 900:455 landscape article thumbnail. Preserve the original farmer and the original green rover EXACTLY, same pose, colors, crates, visible controls, visible light strips and existing crop boundary at the bottom. CRITICAL: the reference only shows the top and front of the rover; do not invent or reveal any chassis, suspension, wheel mount, underbody, frame, or extra machinery below the source image boundary. The rover MUST remain cropped by the lower image edge at the SAME level as the reference, so no unknown product details are visible. Only extend/clean up the surrounding blueberry farm background to the LEFT and TOP, with natural soft daylight and graphite/slate neutral scene harmony. Keep original camera perspective and human identity. Preserve all original product geometry and details. No robot redesign, no repainting, no new parts, no text/logos, no unrelated equipment. Farmer and existing visible rover on right two thirds, low-detail authentic foliage on left. This is background and crop adaptation only.",
+      "projectOriginal": "output/imagegen/insight-field.png",
+      "websiteAsset": "public/assets/xtaskr/insight-field.webp"
+    },
+    {
+      "key": "insight-mobility",
+      "source": "farmer_loading_blueberries_14550_Nano_Banana_2.png",
+      "width": 1200,
+      "height": 607,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-fab2aa2b-c299-4666-b61b-f1ca3e42db9e.png",
+      "prompt": "Use case: precise-object-edit. Edit target: client photograph. Asset type: XtaskR article thumbnail, exact landscape aspect 900:455 (about 1.978:1), approximately 1800 by 910 pixels. Background/scene: the exact original amber rover with blue crates and black rims in a practical pale off-white agricultural loading yard with concrete floor, source camera angle unchanged; entire rover occupies the RIGHT HALF with full tires and crates visible, subtle slate and amber environmental accents, restrained soft daylight. Replace only surroundings and recompose for this wide thumbnail. Preserve original product identity, geometric details, colors, materials, controls, rims, tire tread, brackets, lights and crates. Do not repaint, redesign or invent new parts. Keep ALL product details away from crop edges, no stretched proportions. Premium realistic outdoor industrial photography consistent with Graphite #1E2229, Slate #7B8494, Chalk #F4F6F9 and subtle Safety Amber #FF9500 in the environment only. No text, no logos, no graphic overlays, no unrelated machinery, no robotic arms, no futuristic effects.",
+      "projectOriginal": "output/imagegen/insight-mobility.png",
+      "websiteAsset": "public/assets/xtaskr/insight-mobility.webp"
+    },
+    {
+      "key": "approach-harvest-mobile",
+      "source": "farmer_loading_blueberries_61145_Nano_Banana_2.png",
+      "width": 780,
+      "height": 1440,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-2aeec263-14a6-47de-a954-a94a21ac6f36.png",
+      "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the same source blueberry farm, same farmer identity and kneeling pose, and the SAME EXISTING visible upper/front portion of the green rover. Keep the rover's lower source crop boundary cropped at the lower output edge; NEVER invent underbody or missing parts. Composition: Keep farmer and visible rover grouped in lower half; extend only orchard netting, sky and subtle foliage into upper half. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+      "projectOriginal": "output/imagegen/approach-harvest-mobile.png",
+      "websiteAsset": "public/assets/xtaskr/approach-harvest-mobile.webp"
+    },
+    {
+      "key": "approach-field-mobile",
+      "source": "farmer_loading_blueberries_63987_Nano_Banana_2.png",
+      "width": 780,
+      "height": 1440,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-7994328b-6e58-4dbc-8cba-ca7c801b166b.png",
+      "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the same source blueberry rows and standing farmer with the exact green rover and loaded crates, all source product details and original source colors preserved. Composition: The complete source rover sits across the lower middle, farmer directly behind/left of it, both within this portrait frame. Keep actual human and product scale. Extend only background netting and sky above. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+      "projectOriginal": "output/imagegen/approach-field-mobile.png",
+      "websiteAsset": "public/assets/xtaskr/approach-field-mobile.webp"
+    },
+    {
+      "key": "approach-orchard-mobile",
+      "source": "farmer_loading_blueberries_45359_Nano_Banana_2.png",
+      "width": 780,
+      "height": 1440,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-75fc50a1-410d-4492-b17b-fd4697ad8fbe.png",
+      "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the same source fruit orchard, source farmer and exact green rover carrying original fruit crates, same original product viewpoint and source colors. Composition: The complete source rover sits in the lower middle, farmer just behind/left, realistic orchard rows on either side and quiet sky and foliage across the upper half. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+      "projectOriginal": "output/imagegen/approach-orchard-mobile.png",
+      "websiteAsset": "public/assets/xtaskr/approach-orchard-mobile.webp"
+    },
+    {
+      "key": "footer-rover-mobile",
+      "source": "farmer_loading_blueberries_87087_Nano_Banana_2.png",
+      "width": 780,
+      "height": 1440,
+      "alpha": false,
+      "generatedPath": "/Users/bstar/.codex/generated_images/01a13fc1-9e16-7122-a33a-258d03eef045/exec-7ead0d4f-bf20-4e95-b52f-23aabe61d20b.png",
+      "prompt": "Use case: precise-object-edit. Edit target: client photo. Asset type: MOBILE responsive website background, PORTRAIT exact aspect 390:720, about 832 by 1536 pixels. Scene: the exact original green rover with green crates and yellow rims in a premium outdoor equipment yard at early evening, graphite workshop wall and slate concrete with subtle amber safety lights in background. Composition: Entire unchanged rover in lower third, taking at most 80% of width. Upper two thirds is mostly quiet graphite architectural backdrop for an existing white website heading. No people. This accompanies a desktop version; only background extension and composition are different. Keep all product panels, materials, controls, lights, brackets, tires, rims, crates, and proportions identical to the reference; do not redesign, recolor, or invent product parts. Source human identity and pose must stay unchanged when present. Premium natural photography consistent with graphite/slate/chalk surroundings and discreet amber brand accents only around the product. No text, logos or graphics. No robotic arms, humanoids, science fiction, generic factory machinery. Leave clear margins around every visible source product edge; never stretch the product.",
+      "projectOriginal": "output/imagegen/footer-rover-mobile.png",
+      "websiteAsset": "public/assets/xtaskr/footer-rover-mobile.webp"
+    }
+  ]
+}
