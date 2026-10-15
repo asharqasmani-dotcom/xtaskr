@@ -35,3 +35,7 @@
 - Reopened the Mechorix reference and inspected its testimonial script. Restored the missing active opacity rule: the item and its image at the viewport midpoint fade to 1 while inactive items stay at .2. Browser scroll verification observed active index changing from 2 to 1 with matching opacity values. Reduced-motion visitors see full-opacity items.
 - Build, TypeScript, HTTP 200, navigation target checks, mobile menu, image loading, card containment and no-horizontal-overflow checks passed.
 - Hero copy, buttons and fallback remain intact. The requested action video has NOT been generated: Higgsfield is still unconnected. Production brief remains output/hero-video-brief.md.
+
+## Floating rover foreground correction
+- Raised the existing applications rover cutout to z-index 3 above the card grid at z-index 2, as requested. Position, size, imagery and motion are unchanged.
+- Production build and TypeScript passed; browser computed styles confirm the foreground order.

@@ -578,6 +578,7 @@ button.elementor-video-popup {
 
 /* Category photography is a background layer; grid, padding and content stay unchanged. */
 #industries [data-id="d1f567c"] { position: relative; z-index: 2; }
+#industries [data-id="6f6cbb0"] { z-index: 3; }
 #industries .industry-item { isolation: isolate; background-color: #1e2229; --accent: #ff9500; }
 #industries .industry-scene { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: center top; z-index: 0; }
 #industries .industry-item::before { z-index: 4; }
